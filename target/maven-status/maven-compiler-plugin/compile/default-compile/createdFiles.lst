@@ -1,0 +1,11 @@
+br/ufes/estatistica/pattern/CalculaMaior.class
+br/ufes/estatistica/pattern/Calculadora.class
+br/ufes/estatistica/pattern/CalculaMenor.class
+br/ufes/estatistica/pattern/CalculaDesvioPadrao.class
+br/ufes/estatistica/pattern/CalculaMedia.class
+br/ufes/estatistica/pattern/OperacaoMatematica.class
+br/ufes/estatistica/pattern/PrincipalJava.class
+br/ufes/estatistica/pattern/CalculaSomatorio.class
+br/ufes/estatistica/antipattern/PrincipalJava.class
+br/ufes/estatistica/antipattern/CalculoEstatisticoAntiPattern.class
+br/ufes/estatistica/pattern/CalculaVariancia.class
