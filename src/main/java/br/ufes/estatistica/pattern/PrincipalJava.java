@@ -10,6 +10,6 @@ public class PrincipalJava {
 
         double resultado = new Calculadora().calcularOperacao(new CalculaSomatorio(), numeroCollection);
 
-        System.out.println(resultado);
+        System.out.println("\nResultado: " + resultado);
     }
 }
